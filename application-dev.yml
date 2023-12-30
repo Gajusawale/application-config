@@ -5,4 +5,4 @@ spring:
     password: root
 
   application:
-    name: Question-Service
+    name: Question-Service-dev
